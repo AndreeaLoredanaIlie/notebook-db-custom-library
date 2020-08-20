@@ -1,5 +1,5 @@
-organization := "be.nn.dil" //GroupID
-name := "dilDbOps" //Artifact ID
+organization := "db.custom.lib" //GroupID
+name := "dbOps" //Artifact ID
 
 version := "0.7"
 
